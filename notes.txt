@@ -1,0 +1,5 @@
+rs for restatrting
+ctrl+c quites server
+
+* GITHUB *
+initial push: server side complete and working
