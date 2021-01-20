@@ -1,5 +1,10 @@
 rs for restatrting
 ctrl+c quites server
 
+git add .
+git commit -m "comment"
+git push
+
+
 * GITHUB *
 initial push: server side complete and working
